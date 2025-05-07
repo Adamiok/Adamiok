@@ -17,7 +17,7 @@ Currently diving into cybersecurity and its real-world applications!
 
 ## ⚡ Fun fact
 
-Currently a proud user of ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+Currently a proud user of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="16" style="vertical-align: text-bottom;" /> Arch Linux
 
 ## 📫 Reach Me
 - Discord: `adamiok`
