@@ -12,14 +12,16 @@ Currently diving into cybersecurity and its real-world applications!
 
 <table>
   <tr>
-    <td>
+    <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Adamiok&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=Github%20Stats&show=prs_merged_percentage" height="180"/>
     </td>
-    <td>
+    <td width="20"></td> <!-- acts as spacer -->
+    <td align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamiok&layout=compact&theme=transparent" height="180"/>
     </td>
   </tr>
 </table>
+
 
 ## ⚡ Fun fact
 
