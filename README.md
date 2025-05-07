@@ -10,18 +10,11 @@ Currently diving into cybersecurity and its real-world applications!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<table border=0>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Adamiok&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=Github%20Stats&show=prs_merged_percentage" height="180"/>
-    </td>
-    <td width="20"></td> <!-- acts as spacer -->
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamiok&layout=compact&theme=transparent" height="180"/>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adamiok&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=Github%20Stats&show=prs_merged_percentage" height="180"/>
+  <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="20" height="1" alt="spacer"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamiok&layout=compact&theme=transparent" height="180"/>
+</div>
 
 ## ⚡ Fun fact
 
