@@ -12,7 +12,8 @@ Currently diving into cybersecurity and its real-world applications!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Adamiok&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=Github%20Stats&show=prs_merged_percentage" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamiok&layout=compact&theme=transparent" height="180" style="margin-left: 20px;"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamiok&layout=compact&theme=transparent" height="180"/>
 </div>
 
 ## ⚡ Fun fact
